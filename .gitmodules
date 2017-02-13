@@ -1,0 +1,3 @@
+[submodule "datadictionary"]
+	path = datadictionary
+	url = https://github.com/EyeSeeTea/datadictionary/
